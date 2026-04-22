@@ -1,0 +1,17 @@
+# Nhóm xử lý dữ liệu (Data Processing)
+pandas
+numpy
+
+# Nhóm machine learning (Core ML)
+scikit-learn
+
+# Nhóm model nâng cao (Optional nhưng nên có)
+xgboost
+
+# Nhóm trực quan hóa (Visualization)
+matplotlib
+seaborn
+
+# Nhóm tiện ích (Optional)
+tqdm       
+joblib       
